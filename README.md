@@ -1,4 +1,5 @@
-#Relevence_of_object_detection
+#Relevence_of_object_detection#
+
 Object tracking is an important task in computer vision. It involves identifying objects in a video and interpreting them as a set of trajectories with high accuracy¹. Here are some real-time uses of object tracking:
 
 1. *Surveillance*: Object tracking is used in surveillance systems to monitor and track individuals or objects in real-time³.
